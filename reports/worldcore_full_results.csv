@@ -1,0 +1,19 @@
+hour,rainfall_mm,soil_moisture_pct,water_level_cm,water_level_change_cm,scenario,risk_level,recommendation
+1,5,65.15,41.39,1.39,Low Rainfall,LOW,Continue monitoring environmental conditions.
+2,5,65.3,42.78,1.39,Low Rainfall,LOW,Continue monitoring environmental conditions.
+3,5,65.45,44.18,1.39,Low Rainfall,LOW,Continue monitoring environmental conditions.
+4,5,65.6,45.57,1.4,Low Rainfall,LOW,Continue monitoring environmental conditions.
+5,5,65.75,46.97,1.4,Low Rainfall,LOW,Continue monitoring environmental conditions.
+6,5,65.9,48.37,1.4,Low Rainfall,LOW,Continue monitoring environmental conditions.
+1,20,65.6,43.19,3.19,Moderate Rainfall,LOW,Continue monitoring environmental conditions.
+2,20,66.2,46.39,3.2,Moderate Rainfall,LOW,Continue monitoring environmental conditions.
+3,20,66.8,49.6,3.21,Moderate Rainfall,LOW,Continue monitoring environmental conditions.
+4,20,67.4,52.81,3.22,Moderate Rainfall,MODERATE,Increase monitoring frequency.
+5,20,68.0,56.04,3.23,Moderate Rainfall,MODERATE,Increase monitoring frequency.
+6,20,68.6,59.27,3.23,Moderate Rainfall,MODERATE,Increase monitoring frequency.
+1,50,66.5,46.79,6.79,Heavy Rainfall,LOW,Continue monitoring environmental conditions.
+2,50,68.0,53.6,6.81,Heavy Rainfall,MODERATE,Increase monitoring frequency.
+3,50,69.5,60.44,6.83,Heavy Rainfall,MODERATE,Increase monitoring frequency.
+4,50,71.0,67.3,6.86,Heavy Rainfall,HIGH,Review preparedness and response plans.
+5,50,72.5,74.17,6.88,Heavy Rainfall,HIGH,Review preparedness and response plans.
+6,50,74.0,81.08,6.9,Heavy Rainfall,CRITICAL,Urgently review emergency response procedures.

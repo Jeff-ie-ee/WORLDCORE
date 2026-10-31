@@ -1,0 +1,4 @@
+scenario,final_water_level_cm,maximum_water_level_cm,final_risk,recommendation
+Heavy Rainfall,81.08,81.08,CRITICAL,Urgently review emergency response procedures.
+Low Rainfall,48.37,48.37,LOW,Continue monitoring environmental conditions.
+Moderate Rainfall,59.27,59.27,MODERATE,Increase monitoring frequency.

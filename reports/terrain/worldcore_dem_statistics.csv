@@ -1,0 +1,2 @@
+pixel_count,minimum_elevation_m,maximum_elevation_m,mean_elevation_m,median_elevation_m,std_elevation_m,crs,working_extent,source,data_type
+5657932,-8.901585578918457,788.9519653320312,32.65047073364258,9.03317642211914,73.05644989013672,EPSG:32643,"76.0,9.7,76.7,10.3",Copernicus DEM GLO-30 Public,Digital Surface Model

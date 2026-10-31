@@ -1,0 +1,9 @@
+hour,rainfall_mm,soil_moisture_pct,water_level_cm,water_level_change_cm,risk_level,recommendation
+1,35,66.05,44.99,4.99,LOW,Continue monitoring environmental conditions.
+2,35,67.1,50.0,5.01,MODERATE,Increase monitoring frequency.
+3,35,68.15,55.02,5.02,MODERATE,Increase monitoring frequency.
+4,35,69.2,60.05,5.04,MODERATE,Increase monitoring frequency.
+5,35,70.25,65.11,5.05,HIGH,Review preparedness and response plans.
+6,35,71.3,70.18,5.07,HIGH,Review preparedness and response plans.
+7,35,72.35,75.26,5.08,HIGH,Review preparedness and response plans.
+8,35,73.4,80.36,5.1,CRITICAL,Urgently review emergency response procedures.

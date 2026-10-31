@@ -1,0 +1,12 @@
+Metric,Value,Unit
+Minimum elevation,-8.901585578918457,metres
+Maximum elevation,788.9519653320312,metres
+Mean elevation,32.65047073364258,metres
+Median elevation,9.03317642211914,metres
+Mean slope,4.226145267486572,degrees
+Maximum slope,67.27560424804688,degrees
+Slope class: 0-2 degrees,47.56,percentage
+Slope class: 2-5 degrees,21.17,percentage
+Slope class: 5-15 degrees,25.96,percentage
+Slope class: 15-30 degrees,4.78,percentage
+Slope class: Above 30 degrees,0.53,percentage
